@@ -6,14 +6,18 @@
 
 When you open the app, the home screen will look like this:
 
-![Screenshot (14)](https://user-images.githubusercontent.com/106818193/172058158-6dabb591-4be2-483d-8677-78ef28dec53e.png)
+![1](https://user-images.githubusercontent.com/106818193/172060102-7cdfbecc-1b13-4bd3-816a-d32bbf2e3e62.png)
+
 
 After clicking, another page opens where the app is actually located and where u can upload the image you want translated and recieve output:
 
-![Screenshot (23)](https://user-images.githubusercontent.com/106818193/172058199-5b8d64fd-14e6-4d52-a0e0-4fa7a8c88ab3.png)
+![2](https://user-images.githubusercontent.com/106818193/172060109-6494af75-228a-49c6-8bf0-55bd683e858b.png)
+
 
 ## Example:
 
-![Screenshot (24)](https://user-images.githubusercontent.com/106818193/172058338-9cb7d5bc-4cc7-4dd5-bd0d-abc38716c9bd.png)
+![3](https://user-images.githubusercontent.com/106818193/172060112-25817a26-52a9-4831-89d3-f4660a57d45c.png)
 
-![Screenshot (26)](https://user-images.githubusercontent.com/106818193/172058349-c0ea327e-c8fd-4a33-9333-23260aa4e172.png)
+
+![5](https://user-images.githubusercontent.com/106818193/172060115-ed574d57-e057-4fe8-adb6-04c793602719.png)
+
