@@ -1,0 +1,16 @@
+Libraries that need to be installed:
+
+1)tenserflow
+2)Keras
+3)opencv-python
+4)numpy
+5)matplotlib
+6)pandas
+7)sklearn
+
+
+To download:
+
+Train Dataset from https://drive.google.com/file/d/1onM71jLDxuOcbCHsM6Bh5YG_djarb0Hj/view?usp=sharing
+
+Test Dataset from https://drive.google.com/file/d/1IKRgSRds-ZiZVCkw0RiATPAgNtEscRTy/view?usp=sharing
