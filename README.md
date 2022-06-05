@@ -1,5 +1,5 @@
 # Sign-Language-Detector
-#### This App will detect alphabets in sign language from a image given and convert them it into letters in english.
+#### This App will detect alphabets in ASL(American Sign Languauge) from a image given and convert them it into letters in english.
 #### This project is mainly aimed to help people communicate with disabled people. This app may reduce the distance between people that is existent because of a language barrier.
 
 ### User Interface:
